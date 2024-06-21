@@ -1,8 +1,8 @@
-.DS_Store
-*.o
-*.exe
-*.out
-*
-.vscode/
-.idea/
 
+*
+!*.*
+!*/
+
+### Above combination will ignore all files without extension ###
+
+.DS_Store
